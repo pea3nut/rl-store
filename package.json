@@ -1,0 +1,18 @@
+{
+  "name": "rl-store",
+  "version": "0.0.1",
+  "description": "A cache story limited size",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "pub": "tsc && npm publish"
+  },
+  "author": "pea3nut",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "typescript": "^3.3.1"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.24"
+  }
+}
